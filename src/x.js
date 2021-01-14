@@ -1,1 +1,2 @@
-console.log(xxx);
+import './x.css'
+export default 'xxx'
